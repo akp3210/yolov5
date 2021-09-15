@@ -1,4 +1,4 @@
-## Checking after Forking
+## Checking After Forking
 
 <div align="center">
 <p>
